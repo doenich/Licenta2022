@@ -1,0 +1,12 @@
+.venv
+.dist
+.vscode
+
+!data/
+data/*
+!data/content
+!data/hashtags
+**/*.csv
+**/__pycache__
+
+~*.docx
